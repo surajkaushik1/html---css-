@@ -1,0 +1,27 @@
+.body{
+    margin:0;
+}
+.header{
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.ul{
+    display: flex;
+    list-style-type: none;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+.icon_area
+{
+    margin-left;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.icon_name{
+   font-weight: bold: 
+}
+.menu_area{
+    margin-right: 10px;
+}
